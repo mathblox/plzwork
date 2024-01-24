@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <ModulePrefs title="Fullscreen Website Gadget" height="600" scrolling="true" />
+  <Content type="url">
+    <![CDATA[
+      mathsspot.com
+    ]]>
+  </Content>
+</Module>
